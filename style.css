@@ -23,7 +23,7 @@ body {
 
 }
 
-.info-link .mor-inf {
+.info-link .more-info {
 
     font-family: fantasy, cursive;
 
@@ -55,6 +55,7 @@ body {
 .task-row-wrapper {
 
     display: flex;
+    margin-top: 40px;
 
 }
 
